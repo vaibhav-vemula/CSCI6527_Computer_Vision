@@ -45,5 +45,5 @@ def main(image_path, std):
 
 if __name__ == "__main__":
     image_path = "bmw.png"
-    stddev=70
+    stddev=0
     main(image_path, stddev)
